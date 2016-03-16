@@ -12,7 +12,18 @@ Hope you enjoy the journey here!
 
 Hi, there!
 
-I'm Wharton, a System Consultant with experience of more than 13+ years. .
+I'm Wharton, a System Consultant with experience of more than 13+ years. 
+yea,time flies..
+   well, i'd  worked for Mitac(shanghai) from 2002-2008,what an old story.
+From 2008, i'd worked in IBM for 6years, really really very hard while happy aslo, i learned IBM system storage, system POWER and system Flex and so on, Big blue really is big,like the sea:)
+
+2014,God knows why lenovo bought IBM systemx . so now, I am in Lenovo. working on Openstack,Nutanix..
+
+i almost deliver 100+ projects these years..just try to image it..
+
+One day, I was thinking, why am i so busy... then i think maybe i should write some blogs, so that something can be keeped
+
+anyway, that is it..
 
 
 
