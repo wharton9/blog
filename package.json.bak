@@ -1,9 +1,9 @@
 {
   "name": "WhartonBlog",
   "version": "0.1.0",
-  "description": "Wharton's Blog",
+  "description": "Ovilia's Blog",
   "main": "gulpfile.js",
-  "author": "Wharton",
+  "author": "Ovilia",
   "license": "MIT",
   "devDependencies": {
     "gulp": "~3.9.0",
