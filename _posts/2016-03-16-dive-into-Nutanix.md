@@ -1,11 +1,11 @@
 ---
-title: xxxxxxxxxkdkiek
-time: 2013.10.19 21:47:00
+title: dive into Nutanix 
+time: 2016.03.16 21:47:00
 layout: post
 tags:
 - IT Tech.
-- JavaScript
-- CSS
+- Nutanix
+- Virtual Server
 - Project
 excerpt: I've re-designed my personal site recently since the old version had too much description words, which is not the best design I could offer as a Web Front-End Designer :smirk:. You may probably find some interesting features at this site (especially the home page), so this post is served as an introduction of how to implement them.
 series: My Special notes
