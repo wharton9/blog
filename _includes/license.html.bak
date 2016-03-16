@@ -5,6 +5,9 @@
         </a>
         <div><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">I haven't been developed for many many years, I just focus on IT tech.s such as <b>GPFS/Openstack/Nutanix/System x/Storages</b> and so on. so the blog style in this site</span> is copy from <a xmlns:cc="http://creativecommons.org/ns#" href="http://zhangwenli.com" property="cc:attributionName" rel="cc:attributionURL">Wenli Zhang,</a> ,seems a very smart litter girl,well, i hate time..it is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">CC 3.0 License</a>, based on <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/ovilia/blog" rel="dct:source">Github</a>. check the source code from her blog site at <a href="https://github.com/Ovilia/blog/tree/gh-pages" target="_blank">Ovilia blog</a>.</div>
     </div>
-
+ <!--   <div class="follow-me">
+        <div class="follow-me-txt">Follow <strong>Wenli Zhang</strong> at</div>
+        {% include follow.html %}
+    </div> -->
     <div style="clear: both"></div>
 </div>
