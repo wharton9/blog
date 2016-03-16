@@ -37,11 +37,11 @@
                 {% assign time = post.time %}
                 <div class="timeago" title="{{ time | replace: '.', '-' | replace: ' ', 'T' }}+08:00">{{ time }}</div>
                 
-                <h5 class="post-series">
+                <!--<h5 class="post-series">
                     {% if post.series %}
                     <a href="{{ site.url }}{{ post.url }}" class="series-recent" onclick="_gaq.push(['_trackEvent', 'ToSeries', '{{ postCnt.size }}thPost', window.location.pathname]);">Series: {{ post.series }}</a>
                     {% endif %}
-                </h5>
+                </h5> -->
                 <h2>
                     <a href="{{ site.url }}{{ post.url }}" onclick="_gaq.push(['_trackEvent', 'ToPost', 'InRecent', '{{ post.url }}">{% if post.subtitle != null %}{{ post.subtitle }} {% endif %}{{ post.title }}</a>
                 </h2>
