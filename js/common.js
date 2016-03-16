@@ -3,7 +3,7 @@ function loadMusic() {
     if ($('#music-content')) {
         $('#music-content').append('<iframe frameborder="no" border="0"'
                 + ' marginwidth="0" marginheight="0" width=330 height=450'
-                + ' src="http://music.163.com/outchain/player?type=0'
+                + ' src="http://music.163.com/#/playlist?id=315724329'
                 + '&id=49176408&auto=0&height=430"></iframe>');
     }
 }
