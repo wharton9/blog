@@ -3,27 +3,18 @@ layout: titled
 title: Site Map
 ---
 
-This page lists some useful links in this site, which may be helpful if you want to dig out more interesting things around here.
 
 Hope you enjoy the journey here!
 
 # About Me
 
-<p class="no-indent">
-{% include follow.html %}
-</p>
+
 
 Hi, there!
 
-I'm Wenli Zhang, a Web Front-end designer and developer with experience of more than 3 years. I write <a href="{{ site.url }}" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToBlog', 'InSiteMap', 'btn']);">blog</a> and <a href="https://twitter.com/OviliaZhang" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToLink', 'InSiteMap', 'Twitter']);">tweet (@OviliaZhang)</a> about Web Front-end topics. I'm also an active committer at <a href="https://github.com/Ovilia" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToGitHub', 'InSiteMap', 'aboutMe']);">GitHub (@Ovilia)</a> .
+I'm Wharton, a System Consultant with experience of more than 13+ years. .
 
-Find more information about me at:
 
-<a class="button" href="http://zhangwenli.com/#ovilia-home" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToHome', 'InSiteMap', 'home']);">Home</a>
-<a class="button" href="{{ site.url }}" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToBlog', 'InSiteMap', 'btn']);">Blog</a>
-<a class="button" href="http://zhangwenli.com/#projects" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToHome', 'InSiteMap', 'projects']);">Projects</a>
-<a class="button" href="http://zhangwenli.com/#hire-me" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToHome', 'InSiteMap', 'hireMe']);">Hire Me</a>
-<a class="button" href="mailto:me@zhangwenli.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'ToHome', 'InSiteMap', 'email']);">Email Me</a>
 
 # About This Site
 
