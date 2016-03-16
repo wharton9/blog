@@ -24,7 +24,7 @@ function processPageView(rows) {
     $('.post-block').each(function() {
         var myPath = $(this).children('h2').children('a').attr('href');
         if (myPath) {
-            myPath = myPath.slice('http://wharton9.github.io/blog/'.length);
+            myPath = myPath.slice('http://zhangwenli.com'.length);
             var len = rows.length;
             var cnt = 0;
             for (var i = 0; i < len; ++i) {
